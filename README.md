@@ -1,6 +1,3 @@
-# Coderplex Hiring Drive
-This repo is for our monthly hiring-drive event. 
-
 Coderplex Hiring Drive, is a monthly recurring hiring event hosted by the Coderplex Foundation, to help developers from our community get hired by startups and IT firms from the city. We charge the companies a resonable fee to participate, open up submissions for the job positions, filter the applications based on the needs of the companies and host in-person interviews connecting the candidates with their potential employers. We charge an extra recruitment fee if any of the candidates get hired by any of the participating companies.    
 
 ## Positions Open This Month (Feburary 2018)
