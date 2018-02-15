@@ -21,7 +21,7 @@ Coderplex Hiring Drive is a monthly recurring hiring event hosted by the Coderpl
 
 **Salary** : 4LPA Rs - 8LPA Rs 
 
-**Criteria** : You must have experience building 2 - 5 dynamic web projects with Angular JS 
+**Criteria** : You must have experience building 2 - 5 dynamic web applications with Angular JS 
 
 **Description** : We're looking for a Frontend Developer who enjoys writing code to build elegant and functional websites, with modern design principles and quality assurance. You must have practical experience in building dynamic web projects with Angular JS, to display your interest and competence in the domain. You should also be comfortable with talking to people, articulating your thoughts and ideas well and have basic leadership skills. But most importantly, you should have the motivation and willingness to constantly learn and improve yourself, personally and professionally.
 
