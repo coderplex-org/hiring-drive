@@ -6,22 +6,25 @@ This repo is for our monthly hiring-drive event
 
 #### Data Scientist / Engineer
 
-*Location* : Hyderabad, Telangana
+**Location** : Hyderabad, Telangana
 
-*Salary* : 9LPA Rs (7.8 LPA Rs + 2% equity over 4 years)
+**Salary** : 9LPA Rs
 
-*Criteria* : You should be a Graduate or Post-Graduate in Statistics / Mathematics / Computer Science / Engineering or Economics
+**Criteria** : You should be a Graduate or Post-Graduate in Statistics / Mathematics / Computer Science / Engineering or Economics
 
-*Description* : We're looking for a Data Science Enginner who enjoy's writing code to process datasets and pull meaningful infromation out of it. You must have practical experience in building personal side projects and/or corporate projects. You should be comfortable with talking to people, and most importantly you should have the motivation and willingness to constantly improve yourself, personally and professionally. 
+**Description** : We're looking for a Data Science Enginner who enjoys writing code to extract interesting and useful information by processing large datasets. You must have some practical experience in building projects, to display your interest and competence in the domain. You should also be comfortable with talking to people, articulating your thoughts and ideas well and most importantly, you should have the motivation and willingness to constantly learn and improve yourself, personally and professionally.
 
+**Apply** : If this position sounds like something you are intested in, then [apply by filling this form](https://docs.google.com/forms/d/e/1FAIpQLSedlXCIHD7-a450_I3orpWFj9N7QKgK_H94N0hjEoRjFFi3Ow/viewform)
 <hr>
 
-#### MEAN Stack Developer
+#### Frontend (AngularJS) Developer
 
-*Location* :
+**Location** : Hyderabad, Telangana
 
-*Salary* :
+**Salary** : 4LPA Rs - 8LPA Rs 
 
-*Criteria* :
+**Criteria** : You must have 2 - 5 side dynamic projects built with Angular JS 
 
-*Description* :
+**Description** : We're looking for a Frontend Developer who enjoys writing code to build elegant and functional websites, with modern design principles and quality assurance. You must have some practical experience in building projects, to display your interest and competence in the domain. You should also be comfortable with talking to people, articulating your thoughts and ideas well and have basic leadership skills. But most importantly, you should have the motivation and willingness to constantly learn and improve yourself, personally and professionally.
+
+**Apply** : If this position interstes you and you right you are the right candidate, please [apply by filling this for](https://docs.google.com/forms/d/e/1FAIpQLSdYZ8Lyvyrkn9u9F_Ea3TxauOp3QTvlrhkGVVdbht7g2uhZFQ/viewform)
