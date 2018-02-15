@@ -3,7 +3,7 @@ This repo is for our monthly hiring-drive event
 
 ### Positions Open This Month 
 
-```
+
 #### Data Scientist / Engineer
 
 *Location* : Hyderabad, Telangana
@@ -14,9 +14,8 @@ This repo is for our monthly hiring-drive event
 
 *Description* : We're looking for a Data Science Enginner who enjoy's writing code to process datasets and pull meaningful infromation out of it. You must have practical experience in building personal side projects and/or corporate projects. You should be comfortable with talking to people, and most importantly you should have the motivation and willingness to constantly improve yourself, personally and professionally. 
 
-```
+<hr>
 
-```
 #### MEAN Stack Developer
 
 *Location* :
@@ -26,5 +25,3 @@ This repo is for our monthly hiring-drive event
 *Criteria* :
 
 *Description* :
-
-```
