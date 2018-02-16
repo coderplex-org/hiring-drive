@@ -1,4 +1,4 @@
-Coderplex Hiring Drive is a monthly recurring hiring event hosted by the Coderplex Foundation, to help developers from our community get hired by the startups and IT firms of Hyderabad. Candidates apply to positions listed below, and we filter the applications based on the needs of the companies hiring this month. Then we host a in-person interview  between the candidates with their potential employers.
+Coderplex Hiring Drive is a monthly recurring hiring event hosted by the Coderplex Foundation, to help developers from our community get hired by the startups and IT firms of Hyderabad. Candidates apply to positions listed below, and we filter the applications based on the needs of the companies hiring this month. Then we host an in-person interview  between the candidates and their potential employers.
 
 ## Positions Open This Month (Feburary 2018)
 `Data Science`, `AngularJS`, `UI/UX`, `PHP`
