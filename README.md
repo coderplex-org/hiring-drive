@@ -19,7 +19,7 @@ Coderplex Hiring Drive is a monthly recurring hiring event hosted by the Coderpl
 
 ### Frontend (AngularJS) Developer
 
-**Salary** : 4LPA Rs - 8LPA Rs 
+**Salary** : 4LPA Rs - 7LPA Rs 
 
 **Criteria** : You must have experience building 2 - 5 dynamic web applications with Angular JS 
 
